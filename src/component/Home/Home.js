@@ -15,7 +15,7 @@ const Home = () => {
             </div>
         <div className='left top'>
             <h3>WELCOME YOU ...</h3>
-            <h1>Hi, I'm <span>Gowri </span></h1> 
+            <h1>Hi, I'm <span>Gowri Shankar </span></h1> 
             <h2>a <span>
             <Typewriter
             words={['Web Developer', 'Job Seeker','Fresher']}
