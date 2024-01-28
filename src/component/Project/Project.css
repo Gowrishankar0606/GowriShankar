@@ -1,0 +1,47 @@
+.Project .box{
+    padding: 30px;
+    height: 280px;
+    width: 500px;
+    text-align:justify;
+}
+.Project .box h2{
+    margin: 20px 0 20px 0;
+}
+.Project .box p{
+    word-spacing: 2px;
+    transition: 0.5s;
+
+}
+.Project .box i{
+    font-size: 30px;
+    margin-top: 20px;
+    transition: 0.5s;
+    opacity: 0;
+}
+.Project .box:hover p{
+    color:white;}
+
+.Project .box:hover i{
+    opacity: 1;
+}
+.content{
+    padding: 0% 30% 0% 30%;
+}
+.content  span  {
+    color: white;
+}
+.content i{
+    color: rgb(4, 97, 14);
+}
+@media (max-width: 768px) {
+    .content{
+        padding-left:  10%;
+        padding-bottom: 10%;
+    }
+    .Project .box{
+        padding: 30px;
+        height: 350px;
+        width:400px;
+        text-align:justify;
+    }
+}

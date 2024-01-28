@@ -1,0 +1,65 @@
+const Certificate_data = [
+    {
+      id: 1,
+      category: "DEVELOPMENT",
+      totalLike: "600",
+      title: "The services provide for design ",
+      image:"./image/IBM.jpg",
+    },
+    {
+      id: 2,
+      category: "APPLICATION",
+      totalLike: "750",
+      title: "Mobile app landing design & maintain",
+      image: "./image/2.jpg",
+    },
+    {
+      id: 3,
+      category: "PHOTOSHOP",
+      totalLike: "630",
+      title: "Logo design creativity & Application ",
+      image: "./image/3.jpg",
+    },
+    {
+      id: 4,
+      category: "FIGMA",
+      totalLike: "360",
+      title: "Mobile app landing design & Services",
+      image: "./image/4.jpg",
+    },
+    {
+      id: 5,
+      category: "WEB DESIGN",
+      totalLike: "280",
+      title: "Design for tecnology & services",
+      image: "./image/5.jpg",
+    },
+    {
+      id: 6,
+      category: "WEB DESIGN",
+      totalLike: "690",
+      title: "App for tecnology & services",
+      image: "./image/6.jpg",
+    },
+    {
+      id: 7,
+      category: "WEB DESIGN",
+      totalLike: "690",
+      title: "App for tecnology & services",
+      image: "./image/7.jpg",
+    },
+    {
+      id: 8,
+      category: "WEB DESIGN",
+      totalLike: "690",
+      title: "App for tecnology & services",
+      image: "./image/8.jpg",
+    },{
+      id: 9,
+      category: "WEB DESIGN",
+      totalLike: "690",
+      title: "App for tecnology & services",
+      image: "./image/9.jpg",
+    },
+  ]
+  export default Certificate_data

@@ -1,0 +1,89 @@
+.Contact .content{
+    padding-left: 7%;
+}
+.Contact .right{
+    padding-left: 20%;
+}
+.Contact span{
+    color: black;
+    padding-top: 5%;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+.Contact .box {
+    
+    padding: 30px;
+    border-color:black;
+    border-radius: 10PX ;
+  }
+  .Contact .details h1 {
+    margin: 20px 0 20px 0;
+    font-size: 35px;
+  }
+  .Contact .details p {
+    font-size: 17px;
+  }
+  .Contact .button {
+    margin-top: 20px;
+  }
+  .Contact button {
+    margin-right: 20px;
+  }
+  .Contact .input span {
+    font-size: 13px;
+    color: rgb(0, 0, 0);
+  }
+  .Contact input {
+    margin-top: 10px;
+    color: #ff014f;
+    letter-spacing: 2px;
+  } 
+  .Contact .right button {
+    width: 50%;
+    color: #ff014f;
+    margin-left: 35%;
+    text-align: center;
+    padding-left: 10%;
+  }
+  .Contact .right button:hover {
+    color: white;
+  }
+  .Contact .right button i {
+    margin-left: 10px;
+  }
+  form{
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  label,  input{
+    display: block;
+    margin-bottom: 10px;
+  }
+  input{
+    width: 120%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  .Contact .textarea{
+    padding-bottom: 40px;
+  }
+  .Contact .right div{
+    padding: 0px 20px 40px 20px ;
+  }
+
+  @media (max-width: 768px) {
+    .Contact .d_flex {
+      flex-direction: column;
+    }
+    .Contact .left,
+    .Contact .right {
+      width: 100%;
+      margin-top: 50px;
+    }
+    .Contact .left{
+        padding-left: 12%;
+    }
+    .Contact .right{
+        padding-left: 12%;
+    }
+  }

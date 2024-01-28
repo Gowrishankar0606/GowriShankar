@@ -1,0 +1,116 @@
+.About .box{
+    padding: 50px;
+}
+.heading{
+    padding-bottom: 3.5%;
+}
+.About .box h2{
+    margin: 20px 0 20px 0;
+}
+.About .box p{
+    word-spacing: 2px;
+    transition: 0.5s;
+}
+.About .box i{
+    font-size: 30px;
+    margin-top: 20px;
+    transition: 0.5s;
+    opacity: 0;
+}
+.About .box:hover p{
+    color:white;
+}
+
+.boxmargin
+{
+    height: 40px;
+    width: 750px;
+}
+.boxmargin p{
+    line-height: 1.7;
+}
+.About .content{
+    padding-left: 20%;
+}
+.personaldeatails{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.left h4{
+    padding-bottom: 20px;
+}
+.pd{
+    padding-bottom: 15%;
+}
+.right
+{
+    padding-left: 10%;
+}
+.ed{
+    padding-bottom: 15%;
+}
+.Education p
+{
+padding-bottom: 50px;
+}
+.personaldeatails
+{
+    padding-left: 17%;
+}
+.pd{
+    
+        color: #ff014f;
+        letter-spacing: 2px;
+        font-weight: 500;
+        font-size:20px ;
+        text-transform: uppercase;    
+}
+.ed{
+    
+    color: #ff014f;
+    letter-spacing: 2px;
+    font-weight: 500;
+    font-size:20px ;
+    text-transform: uppercase;    
+}
+.Personal p
+{
+padding-bottom: 30px;
+font-weight: 700;
+color: rgb(2, 1, 1);
+}
+.Personal span
+{
+padding-bottom: 20px;
+font-weight: 400;
+color: black(41, 38, 38, 0.316);
+}   
+.Details p
+{
+padding-bottom: 20px;
+}
+.aboutme p{
+    text-align: justify;
+}
+@media (max-width: 768px) {
+    .About .left,
+    .About .right{
+      width: 100%;
+      margin-left: 20px;
+    }
+  
+    .About .f_flex {
+      flex-direction:column;
+      
+    }
+    .About .right{
+        padding-left: 0%;
+    }
+    .About .boxmargin{
+        height: 80px;
+        width: 400px;
+    }
+    .About .aboutme{
+        padding: 8%;
+    }
+  }
