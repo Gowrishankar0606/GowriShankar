@@ -36,6 +36,9 @@
     padding-left: 10%;
     padding-top: 5%;
 }
+.personaldeatails span{
+    padding-left: 20px;
+}
 .left h4{
     padding-bottom: 20px;
 }
@@ -44,14 +47,14 @@
 }
 .right
 {
-    padding-left: 10%;
+    padding-left: 18%;
 }
 .ed{
-    padding-bottom: 15%;
+    padding-bottom: 8%;
 }
 .Education p
 {
-padding-bottom: 50px;
+padding-bottom: 40px;
 }
 .personaldeatails
 {
@@ -92,7 +95,7 @@ padding-bottom: 20px;
 .aboutme p{
     text-align: justify;
 }
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .About .left,
     .About .right{
       width: 100%;
