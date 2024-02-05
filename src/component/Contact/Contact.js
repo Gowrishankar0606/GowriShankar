@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import contact1 from './contact1.png'
 import './Contact.css'
-import { eventWrapper, hasFormSubmit } from '@testing-library/user-event/dist/utils'
+
 
 const Contact = () => {
     const[data, setdata]=useState({
