@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import "./Header.css"
-import logo from "../Pic/logo3.jpeg"
+
 
 const Header = () => {
   //when scroll header at top 
@@ -17,7 +17,7 @@ const Header = () => {
       <header className='Header'>
         <div className='container d_flex'>
             <div className='logo'>
-                <img src={logo} alt='' height='80' width='100'/>
+                <h1></h1>
             </div>
              <div className='navlink'>
                 
