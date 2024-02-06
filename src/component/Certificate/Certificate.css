@@ -136,8 +136,11 @@
   .modal-text button.close-modal i {
     margin: 0;
   }
+  .Certificate .grid-cols{
+    grid-template-columns: repeat(3, 1fr);
+  }
   /*------------popup--------*/
-  @media (max-width: 768px) {
+  @media (max-width: 600px) {
     .modal,
     .overlay {
       overflow: scroll;
@@ -155,6 +158,8 @@
     }
   }
   @media (min-width:600px) {
-    .grid-cols{
-    grid-template-columns:repeat(2, 1fr);}
+    .Certificate .grid-cols{
+    grid-template-columns:repeat(1, 1fr);
+    
+  }
   }

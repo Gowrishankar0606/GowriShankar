@@ -93,7 +93,6 @@ h1{
 }
 .grid{
   display: grid;
-  grid-template-columns: repeat(3,1fr);
   grid-gap: 35px;
 }
 /*----------Footer---------*/
