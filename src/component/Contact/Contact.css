@@ -72,7 +72,7 @@ input{
 }
 
 .Contact .img{
-  max-width: 400px;
+  max-width: 350px;
   width: 100%;
   object-fit: cover;
 }
@@ -84,12 +84,15 @@ input{
   .Contact .left,
   .Contact .right {
     width: 100%;
-    margin-top: 50px;
+    margin-top: -50px;
   }
   .Contact .left{
-      padding-left: 12%;
+      padding-left: 2%;
   }
   .Contact .right{
       padding-left: 12%;
+  }
+  .Contact .content{
+    padding-left:2px;
   }
 }
