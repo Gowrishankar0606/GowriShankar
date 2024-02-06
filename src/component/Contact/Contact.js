@@ -74,7 +74,7 @@ const Contact = () => {
                         </div>
                         <div className='input row '>
                             <span>YOUR MESSAGE</span>
-                            <textarea cols='57' rows='10' name='message'  value={data.message} onChange={InputEvent}></textarea>
+                            <textarea cols='48' rows='10' name='message'  value={data.message} onChange={InputEvent}></textarea>
                         </div>
                         <button className='btn_shadow'>
                             SEND MESSAGE <i className='fa fa-long-arrow-down'></i>
@@ -89,3 +89,6 @@ const Contact = () => {
 }
 
 export default Contact
+
+
+
