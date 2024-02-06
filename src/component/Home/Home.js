@@ -10,7 +10,7 @@ const Home = () => {
       <div className='container f_flex top'>
       <div className='right'>
               <div className='right-img'>
-                <img src={My} alt='' height="480" width='390'/>
+                <img src={My} alt='' height="400" width='250'/>
               </div>
             </div>
         <div className='left top'>
