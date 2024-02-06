@@ -42,12 +42,19 @@
 .pd{
     padding-bottom: 15%;
 }
-.right
+.About .right
 {
-    padding-left: 10%;
+    padding-left: 17%;
 }
 .ed{
-    padding-bottom: 15%;
+    padding-bottom: 8%;
+}
+.About .right .Education p{
+    padding-bottom: 38px;
+}
+.Personal span
+{
+ padding-left: 10px;
 }
 .Education p
 {
@@ -107,8 +114,8 @@ padding-bottom: 20px;
         padding-left: 0%;
     }
     .About .boxmargin{
-        height: 80px;
-        width: 400px;
+        height: 120px;
+        width: 300px;
     }
     .About .aboutme{
         padding: 8%;

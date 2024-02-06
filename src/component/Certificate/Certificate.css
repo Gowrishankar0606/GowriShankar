@@ -154,3 +154,7 @@
       padding: 0;
     }
   }
+  @media (min-width:600px) {
+    .grid-cols{
+    grid-template-columns:repeat(2, 1fr);}
+  }

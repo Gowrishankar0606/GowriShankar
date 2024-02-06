@@ -37,8 +37,8 @@ header {
     display: none;
   }
   .Header.active {
-    height: 14.5vh;
-    position: fixed;
+    height: 12vh;
+    position:fixed;
     top: 0;
     z-index: 1000;
     width: 100%;

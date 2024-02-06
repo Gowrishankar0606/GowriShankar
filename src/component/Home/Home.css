@@ -62,6 +62,10 @@ color: black;
     right: 10%;
     width: 510px;
 }
+.Home .right
+{
+    padding-left: 10%;
+}
 .Home{
     padding-top: 80px;
 }
