@@ -87,7 +87,7 @@ input{
     margin-top: -50px;
   }
   .Contact .right{
-    padding-top: 5%;
+    padding-top:20%;
   }
   .Contact .left{
       padding-left: 0%;
@@ -97,5 +97,9 @@ input{
   }
   .Contact .content{
     padding-left:2px;
+  }
+  textarea {
+    width: 104%;
+    box-sizing: border-box;
   }
 }
