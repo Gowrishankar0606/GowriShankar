@@ -52,7 +52,7 @@ header {
     
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 600px) {
     header ul {
       padding-top: 30px;
     }

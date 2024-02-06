@@ -95,7 +95,7 @@ background-color: #ff014f;
 color: rgb(78, 177, 76);
 transform: translateY(-10px);
 }
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .Home .left,
     .Home .right {
       width: 100%;

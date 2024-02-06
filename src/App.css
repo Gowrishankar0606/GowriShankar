@@ -102,8 +102,13 @@ footer {
 footer p {
   margin-top: 30px;
 }
+@media (max-width:600px){
+  footer {
+    margin: 5% 5% 1% 17%;
+  }
+}
 /*----------Footer---------*/
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   .grid {
     grid-template-columns: repeat(2, 1fr);
   }

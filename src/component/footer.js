@@ -4,8 +4,8 @@ const Footer = () => {
   return (
     <>
       <footer>
-        <div className='conatiner text-center top'>
-          <p>© 2021. All rights reserved by Gowri Shankar.</p>
+        <div className='text-center '>
+          <p>Copyright © 2024 Gowri Shankar</p>
         </div>
       </footer>
     </>

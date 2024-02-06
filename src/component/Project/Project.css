@@ -33,7 +33,7 @@
 .content i{
     color: rgb(4, 97, 14);
 }
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .content{
         padding-left:  10%;
         padding-bottom: 10%;

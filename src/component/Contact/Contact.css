@@ -102,4 +102,10 @@ input{
     width: 104%;
     box-sizing: border-box;
   }
+  .Contact .details h1 {
+    font-size: 25px;
+  }
+  .Contact .details p {
+    font-size: 12px;
+  }
 }
