@@ -7,7 +7,7 @@ const Header = () => {
   window.addEventListener("scroll", function()
   {
     const header=document.querySelector(".Header")
-    header.classList.toggle("active", window.scrollY> 100);
+    header.classList.toggle("active", window.scrollY> 90);
   })
   //toggle menu
   const [Mobile, setMobile]= useState(false)
