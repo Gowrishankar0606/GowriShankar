@@ -153,4 +153,9 @@
       padding: 0;
     }
   }
-  
+  @media (max-width:600px) {
+    .Certificate .grid-cols{
+    grid-template-columns:repeat(1, 1fr);
+    
+  }
+  }
