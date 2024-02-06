@@ -99,7 +99,7 @@ padding-bottom: 20px;
 .aboutme p{
     text-align: justify;
 }
-@media (max-width: 768px) {
+@media (max-width: 600px) {
     .About .left,
     .About .right{
       width: 100%;
@@ -115,7 +115,7 @@ padding-bottom: 20px;
     }
     .About .boxmargin{
         height: 120px;
-        width: 300px;
+        width: 340px;
     }
     .About .aboutme{
         padding: 8%;
