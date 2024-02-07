@@ -10,14 +10,14 @@ const Internship_data = [
       id: 2,
       category: "MuHaBa",
       totalLike: "750",
-      title: "Mobile app landing design & maintain",
+      title: "Webdevelopment using HTML,CSS & Bootstrap",
       image: "./image/11.jpg",
     },
     {
       id: 3,
       category: "MuHaBa",
       totalLike: "630",
-      title: "Logo design creativity & Application ",
+      title: "Webdevelopment using JavaScript & Bootstrap",
       image: "./image/12.jpg",
     },
   ]
