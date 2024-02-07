@@ -15,6 +15,7 @@ const Card = (props) => {
   }
   return (
     <>
+    
       <div className='box btn_shadow '>
         <div className='img'>
           <img src={props.image} alt='Sorry Unable to load' onClick={toggleModal} />
