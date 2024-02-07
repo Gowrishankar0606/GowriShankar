@@ -1,7 +1,7 @@
 const Certificate_data = [
     {
       id: 1,
-      category: "DEVELOPMENT",
+      category: "HLO",
       totalLike: "600",
       title: "The services provide for design ",
       image:"./image/IBM.jpg",
