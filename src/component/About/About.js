@@ -29,8 +29,8 @@ const About = () => {
             <div className='right'>
                      <div className='Education'>
                      <h2 className='ed'>Education</h2>
-                     <p>10<sup>th</sup>&nbsp;&nbsp;State Board &nbsp;&nbsp;2018<br></br> John Dewey Matric Higher econtary School,Panruti<br></br> Percentage: 79%</p>
-                     <p>12<sup>th</sup>&nbsp;&nbsp;State Board &nbsp;&nbsp;2018<br></br> John Dewey Matric Higher econtary School,Panruti<br></br> Percentage: 66%</p>
+                     <p>10<sup>th</sup>&nbsp;&nbsp;State Board &nbsp;&nbsp;2018<br></br> John Dewey Matric Higher Secontary School,Panruti<br></br> Percentage: 79%</p>
+                     <p>12<sup>th</sup>&nbsp;&nbsp;State Board &nbsp;&nbsp;2018<br></br> John Dewey Matric Higher Secontary School,Panruti<br></br> Percentage: 66%</p>
                      <p>B.E (CSE) &nbsp;&nbsp;Anna University &nbsp;&nbsp;2024 <br></br>V.R.S. College of Engineering and Technology, Arasur<br></br>CGPA: 8.3</p>
                     
               </div>
