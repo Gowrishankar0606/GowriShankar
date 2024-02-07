@@ -5,6 +5,7 @@ const Certificate_data = [
       totalLike: "600",
       title: "AI Enable car Parking using OpenCV",
       image:"./image/IBM.jpg",
+  
     },
     {
       id: 2,
