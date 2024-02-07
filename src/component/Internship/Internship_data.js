@@ -1,21 +1,21 @@
 const Internship_data = [
     {
       id: 1,
-      category: "DEVELOPMENT",
+      category: "Smart Internz",
       totalLike: "600",
-      title: "The services provide for design ",
+      title: "Salesforce Developer Virtual Internship",
       image:"./image/10.jpg",
     },
     {
       id: 2,
-      category: "APPLICATION",
+      category: "MuHaBa",
       totalLike: "750",
       title: "Mobile app landing design & maintain",
       image: "./image/11.jpg",
     },
     {
       id: 3,
-      category: "PHOTOSHOP",
+      category: "MuHaBa",
       totalLike: "630",
       title: "Logo design creativity & Application ",
       image: "./image/12.jpg",
