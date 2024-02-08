@@ -5,6 +5,7 @@ const Internship_data = [
       totalLike: "600",
       title: "Salesforce Developer Virtual Internship",
       image:"./image/10.jpg",
+      
     },
     {
       id: 2,
