@@ -43,8 +43,16 @@ const Card = (props) => {
               <img src={props.image} alt='Sorry...' />
             </div>
             <div className='modal-text right'>
-              <h1>{props.title}</h1>
-              <p>{props.paragraph}</p>
+              <h1 className="CertificateLink">{props.title}</h1>
+              <br></br>
+              <h3>{props.Organization}</h3>
+              <br></br>
+              <h3>{props.Dateofachievement}</h3>
+              <br></br>
+              <h3>{props.CertificateID}</h3>
+              <br></br>
+              <h3><a href={props.link} className="CertificateLink">Certificate Link</a></h3>
+              <br></br>
               <div className='button f_flex mtop'>
                 <button className='btn_shadow'>
                   LIKE THIS <i class='far fa-thumbs-up'></i>

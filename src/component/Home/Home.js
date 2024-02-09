@@ -28,24 +28,28 @@ const Home = () => {
             </span></h2>
             <div className='Resume-btn d_flex'>
               <div className='Resume'>
+                <a href='https://drive.google.com/file/d/1OcsbrCx_vYU0d5nDO_8hleWmFWgqeWvB/view?usp=drivesdk' download>
               <button className='bt_shadow'>
                     Download Resume
-                </button>
+                </button></a>
               </div>
             </div>
        <div className='Home_btn d_flex'>
             <div className='col_1'>
                 <h4>FIND ME ON </h4>
                 <div className='button'>
+                  <a href='https://wa.me/9791864613'>
                     <button className='btn_shadow'>
                         < i className='fab fa-whatsapp'></i>
-                    </button>
+                    </button></a>
+                    <a href='http://www.linkedin.com/in/gowri-shankar-4ab3741bb'>
                     <button className='btn_shadow'>
                         < i className='fab fa-linkedin-in'></i>
-                    </button>
+                    </button></a>
+                    <a href='https://twitter.com/GowriSh06459217'>
                     <button className='btn_shadow'>
-                        < i className='fa-solid fa-envelope'></i>
-                    </button>
+                    <i class="fab fa-twitter"></i>
+                    </button></a>
                 </div>
             </div>
        </div>

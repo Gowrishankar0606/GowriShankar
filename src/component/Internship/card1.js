@@ -43,9 +43,25 @@ const Card1 = (props) => {
               <img src={props.image} alt='Sorry...' />
             </div>
             <div className='modal-text right'>
-              <h1>{props.title}</h1>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate distinctio assumenda explicabo veniam temporibus eligendi.</p>
-              <p>Consectetur adipisicing elit. Cupiditate distinctio assumenda. dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!</p>
+              <h1 className="InternshipTitle">{props.title}</h1>
+            
+              <h3>{props.Organization}</h3>
+              <br></br>
+              <h3>{props.Dateofachievement}</h3>
+              <br></br>
+              <h3>{props.CertificateID}</h3>
+              <br></br>
+              <h3>{props.link}</h3>
+              <ul>
+                <li>{props.Skill1}</li>
+                <li>{props.Skill2}</li>
+                <li>{props.Skill3}</li>
+                <li>{props.Skill4}</li>
+                <li>{props.Skill5}</li>
+                <li>{props.Skill6}</li>
+                <li>{props.Skill7}</li>
+              </ul>
+              <br></br>
               <div className='button f_flex mtop'>
                 <button className='btn_shadow'>
                   LIKE THIS <i class='far fa-thumbs-up'></i>

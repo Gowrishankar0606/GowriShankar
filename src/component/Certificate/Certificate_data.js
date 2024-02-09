@@ -5,8 +5,10 @@ const Certificate_data = [
       totalLike: "600",
       title: "AI Enable car Parking using OpenCV",
       image:"./image/IBM.jpg",
-      paragraph:"We've combined the power of the Following fee",
-  
+      Organization:"Issuing Organization: IBM, TNSDC",
+      Dateofachievement:"Date of Achievement: July 10 2023",
+      CertificateID:"CertificateID:5806243defa843a0be315c666b62e474",
+      link: "https://courses.tnsdc.skillsnetwork.site/certificates/5806243defa843a0be315c666b62e474",
     },
     {
       id: 2,
@@ -14,6 +16,10 @@ const Certificate_data = [
       totalLike: "750",
       title: "Introduction to Cloud",
       image: "./image/2.jpg",
+      Organization:"Issuing Organization: IBM",
+      Dateofachievement:"Date of Achievement: July 11 2023",
+      CertificateID:"CertificateID:0c14ab051a904634a737476f87576cd1",
+      link: "https://courses.tnsdc.skillsnetwork.site/certificates/0c14ab051a904634a737476f87576cd1",
     },
     {
       id: 3,
@@ -21,6 +27,8 @@ const Certificate_data = [
       totalLike: "630",
       title: "Cloud Essential",
       image: "./image/3.jpg",
+      Organization:"Issuing Organization: Veranda, TNSDC",
+      Dateofachievement:"Date of Achievement:  Mar 16  2023",
     },
     {
       id: 4,
@@ -28,6 +36,10 @@ const Certificate_data = [
       totalLike: "360",
       title: "Data Science: Master Machine Learning Without Coding",
       image: "./image/4.jpg",
+      Organization:"Issuing Organization: Udemy",
+      Dateofachievement:"Date of Achievement: Feb 17 2023",
+      CertificateID:"CertificateID:UC-33ecc4a7-41aa-48bc-860b-794c8276dba6",
+      link: "https://ude.my/UC-33ecc4a7-41aa-48bc-860b-794c8276dba6"
     },
     {
       id: 5,
@@ -35,6 +47,10 @@ const Certificate_data = [
       totalLike: "280",
       title: "Introduction to Cloud Computing on AWS for Beginners",
       image: "./image/5.jpg",
+      Organization:"Issuing Organization: Udemy",
+      Dateofachievement:"Date of Achievement: Jan 21 2023",
+      CertificateID:"CertificateID:UC-23399270-5901-4476-98f5-2be666aac037",
+      link: "https://ude.my/UC-23399270-5901-4476-98f5-2be666aac037"
     },
     {
       id: 6,
@@ -42,6 +58,10 @@ const Certificate_data = [
       totalLike: "690",
       title: "Statistics & Data Analytics for Data Science and Business",
       image: "./image/6.jpg",
+      Organization:"Issuing Organization: Udemy",
+      Dateofachievement:"Date of Achievement: Feb 7 2023",
+      CertificateID:"CertificateID:UC-5924f3c1-e629-4baf-9f1d-4d41159db9e9",
+      link: "https://ude.my/UC-5924f3c1-e629-4baf-9f1d-4d41159db9e9"
     },
     {
       id: 7,
@@ -49,6 +69,10 @@ const Certificate_data = [
       totalLike: "690",
       title: "R Programming: Advanced Analytics in R for Data Science",
       image: "./image/7.jpg",
+      Organization:"Issuing Organization: Udemy",
+      Dateofachievement:"Date of Achievement: Jan 23 2023",
+      CertificateID:"CertificateID:UC-8c30e00f-e6a1-4f85-8d42-97a207489da",
+      link: "https://ude.my/UC-8c30e00f-e6a1-4f85-8d42-97a2074389da"
     },
     {
       id: 8,
@@ -56,12 +80,20 @@ const Certificate_data = [
       totalLike: "690",
       title: "Big Data Computing",
       image: "./image/8.jpg",
-    },{
+      Organization:"Issuing Organization: NPTEL",
+      Dateofachievement:"Duration:Aug-Oct 2022",
+      CertificateID:"Roll No: NPTEL22CS65S4449056",
+      link: ""
+    },
+    {
       id: 9,
       category: "Great Learning",
       totalLike: "690",
       title: "Front End Development -HTML",
       image: "./image/9.jpg",
+      Organization:"Issuing Organization: Great Learning",
+      Dateofachievement:"Date of Achievement: Mar 2023",
+      link: "https://verify.mygreatlearning.com/XAKEKBHR"
     },
   ]
   export default Certificate_data

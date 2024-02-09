@@ -12,7 +12,11 @@
     background: none;
     transform: translateY(-0);
   }
-  
+  .Certificate .CertificateLink
+  {
+    color: #ff014f;
+    font-weight: 430;
+  }
   .Certificate .img {
     height: 300px;
     width: 300px;

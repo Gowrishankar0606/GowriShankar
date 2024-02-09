@@ -5,7 +5,17 @@ const Internship_data = [
       totalLike: "600",
       title: "Salesforce Developer Virtual Internship",
       image:"./image/10.jpg",
-      
+      Organization:"Issuing Organization: Smart Internz",
+      Dateofachievement:"Duration: May-July 2023",
+      CertificateID:"CertificateID: SISFVIPAD2022-62242",
+      link: "Skills Acquired",
+      Skill1:"Salesforce Fundamentals",
+      Skill2:"Organizational Setup",
+      Skill3:"Relationship & Process Automation",
+      Skill4:"Types Of Flows & Security",
+      Skill5:"Apex, Testing & Debugging",
+      Skill6:"VS Code Setup & CLI Setup",
+      Skill7:"Lightning Web Components (LWC) & API",
     },
     {
       id: 2,
@@ -13,6 +23,12 @@ const Internship_data = [
       totalLike: "750",
       title: "Webdevelopment using HTML,CSS & Bootstrap",
       image: "./image/11.jpg",
+      Organization:"Issuing Organization: MuHaBa",
+      Dateofachievement:"Duration: Aug 03 2022 - Aug 08 2022",
+      link: "Skills Acquired",
+      Skill1:"HTML5",
+      Skill2:"CSS3",
+      Skill3:"Bootstrap",
     },
     {
       id: 3,
@@ -20,6 +36,11 @@ const Internship_data = [
       totalLike: "630",
       title: "Webdevelopment using JavaScript & Bootstrap",
       image: "./image/12.jpg",
+      Organization:"Issuing Organization: MuHaBa",
+      Dateofachievement:"Duration: Jan 02 2023 - Jan 07 2023",
+      link: "Skills Acquired",
+      Skill1:"Javascript",
+      Skill2:"Bootstrap",
     },
   ]
   export default Internship_data

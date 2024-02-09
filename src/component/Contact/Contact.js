@@ -49,15 +49,18 @@ const Contact = () => {
                             <p>Email: pgscse2212@gmail.com</p>
                             <span>FIND ME</span>
                             <div className='button f_flex'>
+                                <a href='https://wa.me/9791864613'>
                             <button className='btn_shadow'>
                                 < i className='fab fa-whatsapp'></i>
-                             </button>
+                             </button></a>
+                             <a href='http://www.linkedin.com/in/gowri-shankar-4ab3741bb'>
                             <button className='btn_shadow'>
                                  < i className='fab fa-linkedin-in'></i>
-                            </button>
+                            </button></a> 
+                            <a href='https://twitter.com/GowriSh06459217'>
                             <button className='btn_shadow'>
-                                 < i className='fa-solid fa-envelope'></i>
-                             </button>
+                                 < i className='fab fa-twitter'></i>
+                             </button></a>
                             </div>
                         </div>
                     </div>

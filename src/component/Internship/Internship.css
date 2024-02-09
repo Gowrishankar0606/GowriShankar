@@ -136,6 +136,11 @@
   .modal-text button.close-modal i {
     margin: 0;
   }
+  .InternshipTitle
+  {
+    color: #ff014f;
+    font-weight: 430;
+  }
   /*------------popup--------*/
   @media (max-width: 600px) {
     .modal,

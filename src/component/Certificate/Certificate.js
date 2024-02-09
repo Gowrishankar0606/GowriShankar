@@ -14,7 +14,7 @@ const Certificate = () => {
             <div className='content grid grid-cols'>
               
               {Certificate_data.map((val, index) => {
-              return <Card key={index} image={val.image} category={val.category} totalLike={val.totalLike} title={val.title} paragraph={val.paragraph}/>
+              return <Card key={index} image={val.image} category={val.category} totalLike={val.totalLike} title={val.title} Organization={val.Organization} Dateofachievement={val.Dateofachievement} CertificateID={val.CertificateID} link={val.link}/>
               })}
               
             </div>
