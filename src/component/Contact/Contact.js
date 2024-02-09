@@ -49,7 +49,7 @@ const Contact = () => {
                             <p>Email: pgscse2212@gmail.com</p>
                             <span>FIND ME</span>
                             <div className='button f_flex'>
-                                <a href='https://wa.me/9791864613'>
+                                <a href='https://wa.me/+91 9791864613'>
                             <button className='btn_shadow'>
                                 < i className='fab fa-whatsapp'></i>
                              </button></a>

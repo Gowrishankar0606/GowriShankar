@@ -38,7 +38,7 @@ const Home = () => {
             <div className='col_1'>
                 <h4>FIND ME ON </h4>
                 <div className='button'>
-                  <a href='https://wa.me/9791864613'>
+                  <a href='https://wa.me/+91 9791864613'>
                     <button className='btn_shadow'>
                         < i className='fab fa-whatsapp'></i>
                     </button></a>
