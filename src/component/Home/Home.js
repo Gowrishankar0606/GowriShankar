@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Home.css"
-import My from "../Pic/My.jpg"
+import My from "../Pic/My.png"
 import { Typewriter } from 'react-simple-typewriter'
 
 const Home = () => {
@@ -10,7 +10,7 @@ const Home = () => {
       <div className='container f_flex top'>
       <div className='right'>
               <div className='right-img'>
-                <img src={My} alt='' height="400" width='250'/>
+                <img src={My} alt='' height="550px" width='320px'/>
               </div>
             </div>
         <div className='left top'>
